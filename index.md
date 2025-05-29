@@ -9,3 +9,6 @@ a = np.array([i for i in range(50)])
 
 print(a)
 ```
+- [ ] First task
+- [ ] Second task
+- [x] Third task is actually already done
